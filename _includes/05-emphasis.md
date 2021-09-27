@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Currently I am learning *Git*, *Command-Line* and *HTML* in the **Web Development Bootcamp**.
